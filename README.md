@@ -1,6 +1,6 @@
 ## Research Project
 
-### Title : </br>
+### Title 
 3D Brain Tumors Segmentation using U-Net CNN with BRaTs21 Public Datasets
 
 ### Resources
